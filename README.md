@@ -9,7 +9,7 @@
 
 ## 📊 Project Overview
 
-This project focused on analyzing traffic collision data from the [NYC OpenData Portal](https://data.cityofnewyork.us/), with the goal of uncovering data-driven insights that could inform safer and more efficient urban road design.
+This project focused on analyzing traffic collision data from the [NYC OpenData Portal](https://data.cityofnewyork.us/), with the goal of uncovering data-driven insights that could inform safer and more efficient urban road design. Access dataset used [here](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95/about_data).
 
 In the guided modules, using exploratory data analysis, time series and geospatial techniques, I explored patterns and trends in traffic collisions across New York City. The project culminated in a self-defined research investigation where I looked into **collision hotspots in Manhattan**, examining contributing factors and proposing actionable insights.
 

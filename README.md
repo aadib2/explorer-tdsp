@@ -62,6 +62,14 @@ This self-directed investigation aimed to explore:
 ---
 
 ## 📍 Sample Visualizations
-```markdown
-![Collision Hotspots - Manhattan](images/manhattan_hotspots_map.png)
-*Figure: Geospatial heatmap of traffic collisions in Manhattan*
+<img src="nyc-heatmap.png" alt="NYC Heatmap" width="300"/>
+
+*Figure: Geospatial heatmap of traffic collisions across NYC*
+
+<img src="choropleth-manhattan.png" alt="Manhattan Choropleth" width="300"/>
+
+*Figure: Choropleth map of traffic collisions in Manhattan Zip Codes (Blue indicating more recorded crashes)*
+
+<img src="time-series-10016.png" alt="Time Series Analysis" width="450"/>
+
+*Figure: A time series plot of monthly crashes in zip code 10016 (Midtown East Manhattan)*

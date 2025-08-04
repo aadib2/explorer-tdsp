@@ -30,13 +30,13 @@ This self-directed investigation aimed to explore:
 
 ## 🔍 Key Findings
 
-- Identified high-risk zones in Manhattan where pedestrian and cyclist collision rates were disproportionately high
+- Identified high-risk zip codes (10016, 10019, 10036) all located in midtown Manhattam where frequency of crashes were the highest between ~2013-2025
 - Found strong correlations between time-of-day and crash severity in densely trafficked areas
 - Uncovered seasonal patterns linked to elevated crash risks through time series analysis
 - Generated 8+ visualizations to communicate insights, including:
   - Geospatial heatmaps of collision density (via Folium)
-  - Time series plots of crash frequency by month in Manhattan zip codes with highest number of crashes
-  - Comparative bar charts of injury types by borough
+  - Time series plots of crash frequency by month in high risk zip codes
+  - Comparative bar charts of crash type frequencies by borough
 
 ---
 
@@ -53,18 +53,15 @@ This self-directed investigation aimed to explore:
 
 ## 📌 Skills Gained
 
-- Data cleaning and exploratory analysis on real-world datasets  
-- Geospatial visualization with `folium` and mapping libraries  
+- Data cleaning and exploratory analysis using Python on real-world datasets  
+- Geospatial visualization with `folium`  
 - Applying time series methods to urban traffic patterns  
 - Communicating insights through visual storytelling  
-- Framing and answering an open-ended research question 
+- Framing and answering an open-ended research question
 
 ---
 
-## 📍 Sample Visuals
-
-> _(Optional: Add a few `.png` visualizations to your repo and embed like below)_
-
+## 📍 Sample Visualizations
 ```markdown
 ![Collision Hotspots - Manhattan](images/manhattan_hotspots_map.png)
 *Figure: Geospatial heatmap of traffic collisions in Manhattan*
